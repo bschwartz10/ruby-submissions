@@ -14,7 +14,7 @@ Github Repo Link: https://github.com/BethKnight1234/task_manager
 
 ## Brett Schwartz
 
-Github Repo Link:
+Github Repo Link: https://github.com/bschwartz10/task_manager
 
 -----
 

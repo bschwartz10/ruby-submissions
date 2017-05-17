@@ -2,7 +2,7 @@
 Repo:
 
 ### Brett Schwartz
-Repo:
+Repo: https://github.com/bschwartz10/module_3_diagnostic
 
 ### Cody Borders
 Repo:

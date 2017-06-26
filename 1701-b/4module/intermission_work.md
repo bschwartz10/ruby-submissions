@@ -2,8 +2,8 @@
 
 ## Brett Schwartz
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/bschwartz10/b6907f5c18a8f400b55ab4cc81760d7f
+* Sorting Suite Repo: https://github.com/bschwartz10/sortingSuite
 
 ## Colleen Ward
 
